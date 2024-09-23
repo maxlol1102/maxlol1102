@@ -55,5 +55,7 @@
 #
 
 ### Connect with me:
-  
+  <a href="https://www.facebook.com/cn.vuu"><img height="40" width="40"  src="https://cdn.simpleicons.org/facebook/f8f8ff" /></a>
+  <a href=""><img height="40" width="40" src="https://cdn.simpleicons.org/instagram/f8f8ff" /></a>
+  <a href="https://www.linkedin.com/in/vu-nguyen-cao-0b318022a/"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin/f8f8ff" /></a>
 ---
