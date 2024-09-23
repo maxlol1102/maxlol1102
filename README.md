@@ -54,8 +54,5 @@
   <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=maxlol1102&bg_color=1F222E&color=2774A2F4&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 #
 
-### Connect with me:
-  <a href="https://www.facebook.com/cn.vuu"><img height="40" width="40"  src="https://cdn.simpleicons.org/facebook/f8f8ff" /></a>
-  <a href=""><img height="40" width="40" src="https://cdn.simpleicons.org/instagram/f8f8ff" /></a>
-  <a href="https://www.linkedin.com/in/vu-nguyen-cao-0b318022a/"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin/f8f8ff" /></a>
+
 ---
