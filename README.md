@@ -42,21 +42,25 @@
 #
 
  <h3>🔥 Streak Stats</h3>
-  <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maxlol1102&theme=shadow-blue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&border=2774A2F4" alt="GitHub Streak" /></a>
-      <!-- Use https://streak-stats.demolab.com -->
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+ <div align="center">
+    <p>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maxlol1102&theme=shadow-blue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&border=2774A2F4" alt="GitHub Streak" /></a>
+        <!-- Use https://streak-stats.demolab.com -->
+    </p>
+ </div>
+ <div align="center">
+      <h3>💻 GitHub Profile Stats</h3> <!-- https://github.com/anuraghazra/github-readme-stats -->
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img alt="Vu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=maxlol1102&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_blue" height="192px"/>
+          </a> 
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img alt="Vu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maxlol1102&langs_count=8&layout=compact&theme=shadow_blue" height="192px"/>
+          </a>
+          <br/>
+  </div>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=maxlol1102&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_blue" height="192px"/></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maxlol1102&langs_count=8&layout=compact&theme=shadow_blue" height="192px"/></a>
-  <br/>
-
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+ 
   <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=maxlol1102&bg_color=1F222E&color=2774A2F4&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 #
 
