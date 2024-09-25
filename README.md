@@ -1,6 +1,10 @@
-![Greeting Banner](https://raw.githubusercontent.com/maxlol1102/Images/main/greeting.gif)
+![greetings](https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif)
 
-## Hi there 👋 I'm Jay and Welcome to my Github! 
+### <div align="center">Hi there, I'm Jay 👋</div>
+
+### <div align="center">Welcome to my Github! </div>
+
+<br />
 
 👋 I'm from VietNam, and I'm a passionate MS student at the University of Wisconsin-Whitewater, diving deep into the world of tech and AI.
 
