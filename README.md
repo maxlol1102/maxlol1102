@@ -1,6 +1,6 @@
-## Hi there 👋 Welcome to my Github! 
+## Hi there 👋 I'm Jay and Welcome to my Github! 
 
-👋 I'm Jay from VietNam, and I'm a passionate MS student at the University of Wisconsin-Whitewater, diving deep into the world of tech and AI.
+👋 I'm from VietNam, and I'm a passionate MS student at the University of Wisconsin-Whitewater, diving deep into the world of tech and AI.
 
 💻 Currently exploring web development and data analysis, with a focus on creating innovative solutions that make a difference. I also enjoy UI/UX and design in general.
 
