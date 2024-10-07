@@ -52,10 +52,10 @@
  
  <div align="center">
       <h3>💻 GitHub Profile Stats</h3>
-          <a href="https://github.com/anuraghazra/github-readme-stats">
+          <a href="">
             <img alt="Vu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=maxlol1102&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_blue" height="192px"/>
           </a> 
-          <a href="https://github.com/anuraghazra/github-readme-stats">
+          <a href="">
             <img alt="Vu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maxlol1102&langs_count=8&layout=compact&theme=shadow_blue" height="192px"/>
           </a>
           <br/>
@@ -64,6 +64,7 @@
   <b>Note: </b>Top languages indicate the languages used in my public code, not my experience or skill level.
 
 #
+<a href="https://github.com/anuraghazra/github-readme-stats">
 
 
 ---
