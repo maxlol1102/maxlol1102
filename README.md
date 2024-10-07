@@ -1,12 +1,12 @@
 ![greetings](https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif)
 
-### <div align="center">Hi there, I'm Jay 👋</div>
+### <div align="center">Hi there, I'm Jay <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="45"></div>
 
 ### <div align="center">Welcome to my Github! </div>
 
 <br />
 
-👋 I'm from VietNam, and I'm a passionate MS student at the University of Wisconsin-Whitewater, diving deep into the world of tech and AI.
+🕴️    I'm from VietNam, and I'm a passionate MS student at the University of Wisconsin-Whitewater, diving deep into the world of tech and AI.
 
 💻 Currently exploring web development and data analysis, with a focus on creating innovative solutions that make a difference. I also enjoy UI/UX and design in general.
 
