@@ -8,15 +8,14 @@
 
 🕴️    I'm from VietNam, and I'm a passionate MS student at the University of Wisconsin-Whitewater, diving deep into the world of tech and AI.
 
-💻 Currently exploring web development and data analysis, with a focus on creating innovative solutions that make a difference. I also enjoy UI/UX and design in general.
+💻 Currently exploring web development and data analysis, with a focus on creating innovative solutions that make a difference. 
 
-🌱 Always eager to learn new skills and improve my craft, especially in the realms of front-end development and AI.
+🌱 Always eager to learn new skills and improve my craft, especially in the realms of AI.
 
 🥊 Tech enthusiast by day, amateur boxer by night—always pushing limits in both the digital and physical arenas.
 
 🌟 I believe in the power of technology to transform lives and drive change.
 
-🚀 Check out my projects below and feel free to connect!
 
 #
 
